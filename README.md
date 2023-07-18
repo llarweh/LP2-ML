@@ -23,4 +23,4 @@ Lawernce Larweh - lawrence.larweh@azubiafrica.org
 Abdulhakeem Adibayo - abdulakeem.adebayo@azubiafrica.org
 
 Further links
-Article Documentation -
+Article Documentation - https://medium.com/@lawrencelarweh/customer-churn-prediction-using-classification-modelling-in-ml-ad79f430c8f8
